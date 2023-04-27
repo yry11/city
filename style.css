@@ -92,7 +92,7 @@ img:last-of-type {
 }
 
 #title {
-  background-image: url("b.jpeg");
+  background-image: url("b.jpg");
   z-index:2;
 }
 
@@ -103,17 +103,17 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("f.png");
+  background-image: url("f.jpg");
   transform: translateZ(-1px) scale(2);
 }
 
 #slide2 {
-  background-image: url("0003.jpg");
+  background-image: url("ma.jpeg");
   z-index:2;
 }
 
 #slide3:before {
-  background-image: url("0104.png");
+  background-image: url("pp.jpeg");
   transform: translateZ(-1px) scale(2);
 }
 
